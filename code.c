@@ -3,6 +3,6 @@
 
 int main() {
     int r = rand();
-    printf("%d\n", r);
+    printf("%d\n", r=10);
     return 0;
 }   
